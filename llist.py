@@ -1,3 +1,4 @@
+#example linked list based on a node objet
 #link nodes(cargo payload + pointer to neighbor) into lists
 class Node:
     def __init__(self, cargo=None, next=None):
